@@ -1,0 +1,20 @@
+{
+  "member_type[]": "1",
+  "member_type[]": "2",
+  "email_address": "test@demo.com",
+  "password": "testdemo",
+  "confirm_password": "testdemo",
+  "firstname": "raj",
+  "lastname": "kaushik",
+  "personal_id": "1234",
+  "date": "10",
+  "month": "10",
+  "year": "1999",
+  "language": "11",
+  "province": "1",
+  "city": "33",
+  "district": "efwef",
+  "address": "Kamla nagar kosi kalan",
+  "zipcode": "28140",
+  "telephone": "89309237943"
+}
